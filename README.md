@@ -1,6 +1,6 @@
 # Human-Activity-Recognition-using-Multiclass-Classification-
 
-This project involves classifying human activities (e.g., walking, sitting, standing) based on data collected from the accelerometer and gyroscope sensors of a smartwatch. The data was collected from 30 participants performing six predefined activities in a controlled environment. Using multiclass classification techniques, the project predicts the activity type from sensor readings.
+This project involves classifying human activities (e.g., walking, sitting, standing) based on data collected from the accelerometer and gyroscope sensors of a smartphone. The data was collected from 30 participants performing six predefined activities in a controlled environment. The project uses multiclass classification techniques to predict the activity type from sensor readings.
 
 ## Dataset
 - **Name**: UCI HAR Dataset
@@ -34,4 +34,4 @@ The dataset contains pre-processed features, including:
 - **Confusion Matrix**: Visualizes misclassification rates for each class.
 
 ## Conclusion
-The Random Forest Classifier achieves an accuracy of over 92%, effectively identifying human activities based on smartwatch sensor data. The confusion matrix and classification report indicate a strong model performance, with minimal misclassifications. This project highlights the potential of machine learning in activity recognition tasks, paving the way for applications in fitness tracking, health monitoring and human-computer interaction.
+The Random Forest Classifier effectively identifies human activities based on smartwatch sensor data. The confusion matrix and classification report indicate a strong model performance, with minimal misclassifications. This project highlights the potential of machine learning in activity recognition tasks, paving the way for applications in fitness tracking, health monitoring and human-computer interaction.
